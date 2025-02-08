@@ -28,21 +28,6 @@ Ensure you have Python installed along with the following libraries:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
-
-### Running the Notebook
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-   ```
-2. Navigate to the folder:
-   ```bash
-   cd YOUR_REPOSITORY
-   ```
-3. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook updated_analysis.ipynb
-   ```
-
 ## Sample Code
 ```python
 import numpy as np
